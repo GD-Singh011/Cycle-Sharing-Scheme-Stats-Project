@@ -1,0 +1,3 @@
+# Cycle-Sharing-Scheme-Stats-Project
+In this project we analysed the trip.csv data file and told the company where to lunch cycles in order to earn a large amount of profit. Based of analysis....
+The Data is in the Cycle-Sharing-Scheme-Stats-Project.zip file
